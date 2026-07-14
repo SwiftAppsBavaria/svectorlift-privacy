@@ -5,7 +5,7 @@ Zuletzt aktualisiert: 14. Juli 2026
 
 ## Zusammenfassung
 
-sVectorLift erhebt, speichert oder überträgt keine personenbezogenen Daten. Alle Daten verbleiben ausschließlich auf Ihrem Gerät.
+sVectorLift erhebt, speichert oder überträgt keine personenbezogenen Daten. Alle Daten verbleiben ausschließlich auf deinem Gerät.
 
 ## Datenerhebung
 
@@ -19,17 +19,17 @@ sVectorLift erhebt **keine** personenbezogenen Daten. Die App:
 
 ## Lokale Datenspeicherung
 
-sVectorLift speichert folgende Daten ausschließlich lokal auf Ihrem Mac:
+sVectorLift speichert folgende Daten ausschließlich lokal auf deinem Mac:
 
-- **Ordner-Lesezeichen:** Die von Ihnen ausgewählten Quell- und Zielordner werden als sicherheitsbezogene Lesezeichen gespeichert, damit die App nach einem Neustart weiterhin Zugriff hat.
+- **Ordner-Lesezeichen:** Die von dir ausgewählten Quell- und Zielordner werden als sicherheitsbezogene Lesezeichen gespeichert, damit die App nach einem Neustart weiterhin Zugriff hat.
 - **Benutzereinstellungen:** Einfache Einstellungen wie die Thumbnail-Größe und der zuletzt geöffnete Ordner werden in den lokalen UserDefaults gespeichert.
 - **Thumbnail-Cache:** Gerenderte Clipart-Vorschauen werden nur im Arbeitsspeicher gehalten und nicht dauerhaft gespeichert.
 
-Diese Daten verlassen Ihr Gerät nicht und können jederzeit durch Deinstallation der App vollständig entfernt werden.
+Diese Daten verlassen dein Gerät nicht und können jederzeit durch Deinstallation der App vollständig entfernt werden.
 
 ## Dateizugriff
 
-sVectorLift greift ausschließlich auf Ordner und Dateien zu, die Sie selbst aktiv auswählen (über den Dateidialog). Die App liest die von Ihnen angegebenen Clipart-Dateien und schreibt exportierte SVG-/PNG-Dateien nur in den von Ihnen gewählten Zielordner. Die App arbeitet innerhalb der macOS-Sandbox und hat keinen Zugriff auf andere Bereiche Ihres Systems.
+sVectorLift greift ausschließlich auf Ordner und Dateien zu, die du selbst aktiv auswählst (über den Dateidialog). Die App liest die von dir angegebenen Clipart-Dateien und schreibt exportierte SVG-/PNG-Dateien nur in den von dir gewählten Zielordner. Die App arbeitet innerhalb der macOS-Sandbox und hat keinen Zugriff auf andere Bereiche deines Systems.
 
 ## Drittanbieter-Dienste
 
@@ -45,5 +45,5 @@ Da sVectorLift keine Daten erhebt, bestehen keine besonderen Risiken für Kinder
 
 ## Kontakt
 
-Bei Fragen zur Datenschutzrichtlinie wenden Sie sich an:
+Bei Fragen zur Datenschutzrichtlinie wende dich an:
 SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
