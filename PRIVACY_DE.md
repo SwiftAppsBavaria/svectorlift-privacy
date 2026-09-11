@@ -46,4 +46,4 @@ Da sVectorLift keine Daten erhebt, bestehen keine besonderen Risiken für Kinder
 ## Kontakt
 
 Bei Fragen zur Datenschutzrichtlinie wende dich an:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net

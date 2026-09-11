@@ -46,4 +46,4 @@ sVectorLift는 어떠한 데이터도 수집하지 않으므로 아동에게 특
 ## 문의
 
 이 개인정보 처리방침에 관한 문의:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net

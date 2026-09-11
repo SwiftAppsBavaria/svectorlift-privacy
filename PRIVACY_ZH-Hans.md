@@ -46,4 +46,4 @@ sVectorLift 不使用任何会收集数据的第三方服务、SDK 或框架。
 ## 联系方式
 
 关于本隐私政策的问题，请联系：
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net

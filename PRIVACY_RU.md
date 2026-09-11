@@ -46,4 +46,4 @@ sVectorLift не использует сторонних сервисов, SDK �
 ## Контакт
 
 По вопросам о политике конфиденциальности:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net

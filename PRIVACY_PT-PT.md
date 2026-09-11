@@ -46,4 +46,4 @@ Alterações nesta política serão publicadas neste ficheiro. Como nenhum dado 
 ## Contato
 
 Para dúvidas sobre esta política de privacidade:
-SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
+Andreas Heiligtag — SwiftAppsBavaria@gmx.net
