@@ -7,7 +7,7 @@
 
 ### Resumen
 
-sVectorLift no recopila, almacena ni transmite ningún dato personal. Todos los datos permanecen exclusivamente en su dispositivo.
+sVectorLift no recopila, almacena ni transmite ningún dato personal. Todos los datos permanecen exclusivamente en tu dispositivo.
 
 ### Recopilación de datos
 
@@ -21,17 +21,17 @@ sVectorLift **no** recopila datos personales. La app:
 
 ### Almacenamiento local de datos
 
-sVectorLift almacena los siguientes datos exclusivamente en su Mac:
+sVectorLift almacena los siguientes datos exclusivamente en tu Mac:
 
-- **Marcadores de carpetas:** Las carpetas de origen y de destino que usted selecciona se guardan como marcadores con ámbito de seguridad (security-scoped bookmarks), de modo que la app conserve el acceso tras un reinicio.
+- **Marcadores de carpetas:** Las carpetas de origen y de destino que seleccionas se guardan como marcadores con ámbito de seguridad (security-scoped bookmarks), de modo que la app conserve el acceso tras un reinicio.
 - **Preferencias del usuario:** Ajustes sencillos, como el tamaño de las miniaturas y la última carpeta abierta, se guardan localmente en UserDefaults.
 - **Caché de miniaturas:** Las vistas previas de los cliparts renderizados se mantienen únicamente en la memoria y no se escriben en un almacenamiento persistente.
 
-Estos datos nunca salen de su dispositivo y pueden eliminarse por completo en cualquier momento desinstalando la app.
+Estos datos nunca salen de tu dispositivo y pueden eliminarse por completo en cualquier momento desinstalando la app.
 
 ### Acceso a archivos
 
-sVectorLift accede únicamente a las carpetas y los archivos que usted selecciona de forma activa (a través del diálogo de archivos). La app lee los archivos de clipart que usted le indica y escribe los archivos SVG/PNG exportados solo en la carpeta de destino que usted elija. La app funciona dentro del entorno aislado (sandbox) de macOS y no tiene acceso a otras áreas de su sistema.
+sVectorLift accede únicamente a las carpetas y los archivos que seleccionas de forma activa (a través del diálogo de archivos). La app lee los archivos de clipart que le indicas y escribe los archivos SVG/PNG exportados solo en la carpeta de destino que elijas. La app funciona dentro del entorno aislado (sandbox) de macOS y no tiene acceso a otras áreas de tu sistema.
 
 ### Servicios de terceros
 
