@@ -5,45 +5,45 @@
 
 ## Resumo
 
-O sVectorLift não recolhe, não armazena e não transmite nenhum dado pessoal. Todos os dados permanecem exclusivamente no seu dispositivo.
+O sVectorLift não recolhe, não armazena nem transmite quaisquer dados pessoais. Todos os dados permanecem exclusivamente no seu dispositivo.
 
 ## Recolha de dados
 
-O sVectorLift **não** recolhe dados pessoais. O app:
+O sVectorLift **não** recolhe dados pessoais. A aplicação:
 
 - Não recolhe dados de utilização nem estatísticas
-- Não utiliza serviços de análise ou rastreamento
-- Não estabelece conexões de rede
-- Não envia dados a servidores ou a terceiros
+- Não utiliza serviços de análise ou de rastreio
+- Não estabelece ligações de rede
+- Não envia dados para servidores nem para terceiros
 - Não contém publicidade
 
 ## Armazenamento local
 
-O sVectorLift guarda os seguintes dados exclusivamente no seu Mac:
+O sVectorLift guarda os seguintes dados exclusivamente de forma local no seu Mac:
 
-- **Marcadores de pastas:** a pasta de origem e a de destino que escolhe são guardadas como marcadores com escopo de segurança, para que o app mantenha o acesso após reiniciar.
-- **Preferências:** ajustes simples, como o tamanho das miniaturas e a última pasta aberta, ficam guardados localmente em UserDefaults.
-- **Cache de miniaturas:** as pré-visualizaçãos já renderizadas ficam apenas na memória e não são gravadas em disco.
+- **Marcadores de pastas:** as pastas de origem e de destino escolhidas pelo utilizador são guardadas como marcadores de âmbito de segurança, para que a aplicação continue a ter acesso depois de ser reiniciada.
+- **Preferências do utilizador:** definições simples, como o tamanho das miniaturas e a última pasta aberta, são guardadas localmente nos UserDefaults.
+- **Cache de miniaturas:** as pré-visualizações de clipart renderizadas são mantidas apenas na memória e não são guardadas de forma permanente.
 
-Esses dados nunca saem do seu dispositivo e podem ser removidos por completo a qualquer momento, desinstalando o app.
+Estes dados não saem do seu dispositivo e podem ser totalmente removidos a qualquer momento, desinstalando a aplicação.
 
 ## Acesso a ficheiros
 
-O sVectorLift acessa somente as pastas e os ficheiros que seleciona ativamente (pela janela de diálogo). Ele lê os ficheiros de clipart que indica e grava os ficheiros SVG/PNG exportados apenas na pasta de destino que escolheu. O app funciona dentro da sandbox do macOS e não tem acesso a outras áreas do sistema.
+O sVectorLift acede exclusivamente às pastas e aos ficheiros que o utilizador seleciona ativamente (através da caixa de diálogo de ficheiros). A aplicação lê os ficheiros de clipart indicados pelo utilizador e grava os ficheiros SVG/PNG exportados apenas na pasta de destino escolhida pelo utilizador. A aplicação funciona dentro da sandbox do macOS e não tem acesso a outras áreas do sistema.
 
 ## Serviços de terceiros
 
-O sVectorLift não utiliza serviços, SDKs ou frameworks de terceiros que recolham dados.
+O sVectorLift não utiliza serviços, SDKs nem frameworks de terceiros que recolham dados.
 
 ## Crianças
 
-Como o sVectorLift não recolhe dado algum, não há riscos específicos para crianças.
+Uma vez que o sVectorLift não recolhe quaisquer dados, não existem riscos específicos para crianças.
 
 ## Alterações
 
-Alterações nesta política serão publicadas neste ficheiro. Como nenhum dado é recolhido, não se esperam mudanças significativas.
+As alterações a esta política de privacidade serão publicadas neste documento. Uma vez que não são recolhidos dados, não se preveem alterações significativas.
 
-## Contato
+## Contacto
 
-Para dúvidas sobre esta política de privacidade:
+Em caso de dúvidas sobre esta política de privacidade, contacte:
 Andreas Heiligtag — SwiftAppsBavaria@gmx.net

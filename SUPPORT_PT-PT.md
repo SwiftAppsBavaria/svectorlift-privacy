@@ -1,26 +1,26 @@
 # sVectorLift — Suporte
 
-O sVectorLift é um app para macOS voltado a acervos antigos de clipart. Ele reconstrói como SVG de verdade os desenhos da era CorelDRAW — documentos do CorelDRAW (.cdr), Corel Binary Meta File (.cmx), Windows Metafile (.wmf) e Computer Graphics Metafile (.cgm) — e renderiza como imagem os QuickDraw 3D Metafiles (.3dm, .3dmf). Seu acervo aparece em uma janela navegável com árvore de pastas, e pode exportar um único ficheiro ou uma seleção inteira de uma vez. Ficheiros que contêm apenas uma imagem raster são exportados como PNG. O sVectorLift não é um programa de paginação.
+O sVectorLift é uma aplicação para macOS destinada a antigas coleções de clipart. Reconstrói como verdadeiro SVG os desenhos da era CorelDRAW — documentos do CorelDRAW (.cdr), Corel Binary Meta File (.cmx), Windows Metafile (.wmf) e Computer Graphics Metafile (.cgm) — e renderiza como imagem os QuickDraw 3D Metafiles (.3dm, .3dmf). A coleção pode ser explorada numa janela com árvore de pastas; ficheiros individuais ou uma seleção inteira são exportados de uma só vez. Os ficheiros que contêm apenas uma imagem raster são exportados como PNG. O sVectorLift não é um programa de paginação.
 
-## Ajuda no app
+## Ajuda na aplicação
 
-O sVectorLift traz uma ajuda completa embutida. Abra-a pelo menu ou com ⌘/ (Comando–Barra).
+O sVectorLift inclui uma ajuda completa, que se abre através do menu ou com ⌘/ (Comando + barra).
 
-Ela explica como escolher a pasta de origem e a de destino, como visualizar e selecionar cliparts, como exportar, quais atalhos de teclado existem e como mudar o idioma do app.
+A ajuda explica a escolha das pastas de origem e de destino, a visualização e seleção dos cliparts, a exportação, os atalhos de teclado e a mudança de idioma da aplicação.
 
 ## Perguntas frequentes
 
-**Aparece um ponto de interrogação no lugar da pré-visualização.**
-O ficheiro não pôde ser lido — ou está danificado, ou está num formato que o sVectorLift não conhece.
+**Em vez de uma pré-visualização, aparece um ponto de interrogação.**
+Não foi possível ler o ficheiro — está danificado ou num formato que o sVectorLift não reconhece.
 
-**Meu ficheiro tem extensão .cdr, mas outros programas não o abrem.**
-Muitos ficheiros com extensão .cdr são, na verdade, ficheiros CMX. O sVectorLift lê os dois.
+**O meu ficheiro tem a extensão .cdr, mas outros programas não o conseguem abrir.**
+Muitos ficheiros com a extensão .cdr são, na verdade, ficheiros CMX. O sVectorLift lê ambos.
 
-**Como mudo o idioma do app?**
-O macOS permite definir o idioma por app: Definições do Sistema → Geral → Idioma e Região → secção «Apps». Adicione o sVectorLift ali e escolha o idioma desejado.
+**Como altero o idioma da aplicação?**
+O macOS permite escolher o idioma de cada aplicação: Definições do Sistema → Geral → Idioma e região → secção «Aplicações». Adicione aí o sVectorLift e escolha o idioma pretendido.
 
-## Contato
+## Contacto
 
 SwiftAppsBavaria — SwiftAppsBavaria@gmx.net
 
-Ao relatar um problema com um ficheiro, informe a extensão e, se possível, anexe um ficheiro de exemplo. Isso facilita muito encontrar a causa.
+Ao comunicar um erro relacionado com um ficheiro, indique a extensão e, se possível, anexe um ficheiro de exemplo. Isso facilita muito a identificação da causa.
