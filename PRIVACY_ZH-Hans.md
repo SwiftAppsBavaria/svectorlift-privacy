@@ -36,7 +36,8 @@ sVectorLift 只访问你主动选择的文件夹和文件（通过文件对话�
 以上各节说明的是 Mac。在 Windows 上，sVectorLift 只在你的电脑上、应用的数据文件夹（`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`）中保存以下内容：
 
 - **设置**，保存在文件 `config.json` 中：源文件夹、最近使用的文件夹和导出选项。
-- **应用日志**，用于排查问题（文件夹 `Logs`）。它不会离开你的电脑。
+- **应用日志**，用于排查问题（文件夹 `Logs`，每天一个文件），以及发生意外错误后的**错误日志**（`fehler.log`）。两者都会在七天后自动删除，不会离开你的电脑。
+- **帮助窗口的缓存**（Microsoft Edge WebView2，文件夹 `EBWebView`）。其中不含个人数据。
 
 Windows 不会把这些数据备份到 OneDrive。卸载应用时，这些数据会全部删除。
 

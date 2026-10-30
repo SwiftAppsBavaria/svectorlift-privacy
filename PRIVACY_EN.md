@@ -36,7 +36,8 @@ sVectorLift only accesses folders and files that you actively select (via the fi
 The sections above describe the Mac. On Windows, sVectorLift stores the following exclusively on your PC, in the app's data folder (`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`):
 
 - **Settings** in a file named `config.json`: the source folders, the recently used folders and the export options.
-- **An app log** for troubleshooting (folder `Logs`). It never leaves your PC.
+- **An app log** for troubleshooting (folder `Logs`, one file per day) and, after an unexpected error, **an error log** (`fehler.log`). Both are deleted automatically after seven days and never leave your PC.
+- **The cache of the help window** (Microsoft Edge WebView2, folder `EBWebView`). It contains no personal data.
 
 Windows does not back up this data to OneDrive. All of it is removed when you uninstall the app.
 

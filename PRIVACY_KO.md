@@ -36,7 +36,8 @@ sVectorLift는 사용자가 직접 선택한 폴더와 파일에만 접근합니
 위의 항목들은 Mac에 관한 설명입니다. Windows에서 sVectorLift는 다음 데이터를 사용자의 PC에만, 앱의 데이터 폴더(`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`)에 저장합니다.
 
 - **설정**(파일 `config.json`): 원본 폴더, 최근 사용한 폴더, 내보내기 옵션.
-- **앱 로그**(문제 해결용, 폴더 `Logs`). PC 밖으로 나가지 않습니다.
+- **앱 로그**(문제 해결용, 폴더 `Logs`, 하루에 파일 하나)와, 예기치 않은 오류가 발생한 경우 **오류 로그**(`fehler.log`). 둘 다 7일 후 자동으로 삭제되며 PC 밖으로 나가지 않습니다.
+- **도움말 창의 캐시**(Microsoft Edge WebView2, 폴더 `EBWebView`). 개인 데이터는 포함되지 않습니다.
 
 Windows는 이 데이터를 OneDrive에 백업하지 않습니다. 앱을 제거하면 모두 삭제됩니다.
 

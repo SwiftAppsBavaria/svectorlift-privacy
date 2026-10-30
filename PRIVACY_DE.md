@@ -36,7 +36,8 @@ sVectorLift greift ausschließlich auf Ordner und Dateien zu, die du selbst akti
 Die Abschnitte oben beschreiben den Mac. Unter Windows legt sVectorLift Folgendes ausschließlich lokal auf deinem PC ab, im Datenordner der App (`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`):
 
 - **Einstellungen** in einer Datei `config.json`: die Quellordner, die zuletzt benutzten Ordner und die Exportoptionen.
-- **Ein App-Protokoll** zur Fehlersuche (Ordner `Logs`). Es verlässt deinen PC nicht.
+- **Ein App-Protokoll** zur Fehlersuche (Ordner `Logs`, je Tag eine Datei) und nach einem unerwarteten Fehler **ein Fehlerprotokoll** (`fehler.log`). Beide werden nach sieben Tagen automatisch gelöscht und verlassen deinen PC nicht.
+- **Der Zwischenspeicher des Hilfefensters** (Microsoft Edge WebView2, Ordner `EBWebView`). Er enthält keine persönlichen Daten.
 
 Windows sichert diese Daten nicht in OneDrive. Alles davon wird entfernt, wenn du die App deinstallierst.
 

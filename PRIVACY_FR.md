@@ -38,7 +38,8 @@ sVectorLift n'accède qu'aux dossiers et fichiers que vous sélectionnez activem
 Les sections ci-dessus décrivent le Mac. Sous Windows, sVectorLift enregistre les éléments suivants exclusivement sur votre PC, dans le dossier de données de l'application (`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`) :
 
 - **Les réglages** dans un fichier `config.json` : les dossiers sources, les dossiers récemment utilisés et les options d'exportation.
-- **Un journal de l'application** pour le dépannage (dossier `Logs`). Il ne quitte jamais votre PC.
+- **Un journal de l'application** pour le dépannage (dossier `Logs`, un fichier par jour) et, après une erreur inattendue, **un journal d'erreurs** (`fehler.log`). Tous deux sont supprimés automatiquement au bout de sept jours et ne quittent jamais votre PC.
+- **Le cache de la fenêtre d'aide** (Microsoft Edge WebView2, dossier `EBWebView`). Il ne contient aucune donnée personnelle.
 
 Windows ne sauvegarde pas ces données dans OneDrive. Tout cela est supprimé lorsque vous désinstallez l'application.
 

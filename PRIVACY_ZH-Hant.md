@@ -36,7 +36,8 @@ sVectorLift 只存取你主動選擇的檔案夾和檔案（透過檔案對話�
 以上各節說明的是 Mac。在 Windows 上，sVectorLift 只在你的電腦上、App 的資料檔案夾（`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`）中儲存以下內容：
 
 - **設定**，儲存在檔案 `config.json` 中：來源檔案夾、最近使用的檔案夾和輸出選項。
-- **App 記錄檔**，用於排除問題（檔案夾 `Logs`）。它不會離開你的電腦。
+- **App 記錄檔**，用於排除問題（檔案夾 `Logs`，每天一個檔案），以及發生意外錯誤後的**錯誤記錄檔**（`fehler.log`）。兩者都會在七天後自動刪除，不會離開你的電腦。
+- **說明視窗的快取**（Microsoft Edge WebView2，檔案夾 `EBWebView`）。其中不含個人資料。
 
 Windows 不會把這些資料備份到 OneDrive。解除安裝 App 時，這些資料會全部刪除。
 

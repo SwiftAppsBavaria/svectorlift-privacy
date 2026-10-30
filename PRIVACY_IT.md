@@ -36,7 +36,8 @@ sVectorLift accede soltanto alle cartelle e ai file che selezioni attivamente (t
 Le sezioni precedenti descrivono il Mac. Su Windows, sVectorLift salva quanto segue esclusivamente sul tuo PC, nella cartella dati dell'app (`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`):
 
 - **Le impostazioni** in un file `config.json`: le cartelle di origine, le cartelle usate di recente e le opzioni di esportazione.
-- **Un registro dell'app** per la risoluzione dei problemi (cartella `Logs`). Non lascia mai il tuo PC.
+- **Un registro dell'app** per la risoluzione dei problemi (cartella `Logs`, un file al giorno) e, dopo un errore imprevisto, **un registro degli errori** (`fehler.log`). Entrambi vengono eliminati automaticamente dopo sette giorni e non lasciano mai il tuo PC.
+- **La cache della finestra di aiuto** (Microsoft Edge WebView2, cartella `EBWebView`). Non contiene dati personali.
 
 Windows non esegue il backup di questi dati su OneDrive. Tutto viene rimosso quando disinstalli l'app.
 

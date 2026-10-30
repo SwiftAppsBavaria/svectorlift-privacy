@@ -36,7 +36,8 @@ O sVectorLift acessa somente as pastas e os arquivos que você mesmo seleciona a
 As seções acima descrevem o Mac. No Windows, o sVectorLift armazena o seguinte exclusivamente no seu PC, na pasta de dados do app (`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`):
 
 - **Os ajustes** em um arquivo `config.json`: as pastas de origem, as pastas usadas recentemente e as opções de exportação.
-- **Um registro do app** para solução de problemas (pasta `Logs`). Ele nunca sai do seu PC.
+- **Um registro do app** para solução de problemas (pasta `Logs`, um arquivo por dia) e, após um erro inesperado, **um registro de erros** (`fehler.log`). Ambos são apagados automaticamente após sete dias e nunca saem do seu PC.
+- **O cache da janela de ajuda** (Microsoft Edge WebView2, pasta `EBWebView`). Ele não contém dados pessoais.
 
 O Windows não faz backup desses dados no OneDrive. Tudo isso é removido quando você desinstala o app.
 

@@ -38,7 +38,8 @@ sVectorLift は、ユーザーが自ら選択したフォルダおよびファ�
 上記の各項目は Mac について説明したものです。Windows では、sVectorLift は次のデータをユーザーの PC 上、アプリのデータフォルダ（`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`）にのみ保存します。
 
 - **設定**（ファイル `config.json`）：ソースフォルダ、最近使ったフォルダ、書き出しオプション。
-- **アプリのログ**（トラブルシューティング用、フォルダ `Logs`）。PC の外に出ることはありません。
+- **アプリのログ**（トラブルシューティング用、フォルダ `Logs`、1 日 1 ファイル）と、予期しないエラーが起きた場合の**エラーログ**（`fehler.log`）。どちらも 7 日後に自動的に削除され、PC の外に出ることはありません。
+- **ヘルプウインドウのキャッシュ**（Microsoft Edge WebView2、フォルダ `EBWebView`）。個人データは含まれません。
 
 Windows はこれらのデータを OneDrive にバックアップしません。アプリをアンインストールすると、すべて削除されます。
 
