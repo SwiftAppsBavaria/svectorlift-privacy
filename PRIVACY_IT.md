@@ -29,7 +29,7 @@ Questi dati non lasciano mai il tuo dispositivo e possono essere rimossi complet
 
 ## Accesso ai file
 
-sVectorLift accede soltanto alle cartelle e ai file che selezioni attivamente (tramite la finestra di dialogo). Legge i file di clipart che gli indichi e scrive i file SVG/PNG esportati soltanto nella cartella di destinazione che hai scelto. L'app opera all'interno della sandbox di macOS e non ha accesso ad altre aree del sistema.
+sVectorLift accede soltanto alle cartelle e ai file che selezioni attivamente (tramite la finestra di dialogo). Legge i file di clipart che gli indichi e scrive i file SVG, PNG o JPG esportati soltanto nella cartella di destinazione che hai scelto. Su tua richiesta rinomina i file in queste cartelle, li sposta o li copia in un'altra cartella che hai selezionato, oppure li sposta nel Cestino. L'app opera all'interno della sandbox di macOS e non ha accesso ad altre aree del sistema.
 
 ## Su Windows
 

@@ -29,7 +29,7 @@ This data never leaves your device and can be completely removed at any time by 
 
 ## File Access
 
-sVectorLift only accesses folders and files that you actively select (via the file dialog). It reads the clipart files you point it to and writes exported SVG/PNG files only to the destination folder you choose. The app operates within the macOS sandbox and has no access to other areas of your system.
+sVectorLift only accesses folders and files that you actively select (via the file dialog). It reads the clipart files you point it to and writes exported SVG, PNG or JPG files only to the destination folder you choose. At your request, it renames files in these folders, moves or copies them to another folder you have selected, or moves them to the Trash. The app operates within the macOS sandbox and has no access to other areas of your system.
 
 ## On Windows
 

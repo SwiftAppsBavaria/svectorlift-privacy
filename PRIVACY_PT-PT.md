@@ -29,7 +29,7 @@ Estes dados não saem do seu dispositivo e podem ser totalmente removidos a qual
 
 ## Acesso a ficheiros
 
-O sVectorLift acede exclusivamente às pastas e aos ficheiros que o utilizador seleciona ativamente (através da caixa de diálogo de ficheiros). A aplicação lê os ficheiros de clipart indicados pelo utilizador e grava os ficheiros SVG/PNG exportados apenas na pasta de destino escolhida pelo utilizador. A aplicação funciona dentro da sandbox do macOS e não tem acesso a outras áreas do sistema.
+O sVectorLift acede exclusivamente às pastas e aos ficheiros que o utilizador seleciona ativamente (através da caixa de diálogo de ficheiros). A aplicação lê os ficheiros de clipart indicados pelo utilizador e grava os ficheiros SVG, PNG ou JPG exportados apenas na pasta de destino escolhida pelo utilizador. A pedido do utilizador, muda o nome de ficheiros nessas pastas, move-os ou copia-os para outra pasta selecionada, ou envia-os para o Lixo. A aplicação funciona dentro da sandbox do macOS e não tem acesso a outras áreas do sistema.
 
 ## No Windows
 

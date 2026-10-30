@@ -31,7 +31,7 @@ Ces données ne quittent jamais votre appareil et peuvent être entièrement sup
 
 ### Accès aux fichiers
 
-sVectorLift n'accède qu'aux dossiers et fichiers que vous sélectionnez activement (via la fenêtre de dialogue de fichiers). L'application lit les fichiers de cliparts que vous lui indiquez et n'écrit les fichiers SVG/PNG exportés que dans le dossier de destination que vous avez choisi. L'application fonctionne à l'intérieur du bac à sable (sandbox) de macOS et n'a accès à aucune autre partie de votre système.
+sVectorLift n'accède qu'aux dossiers et fichiers que vous sélectionnez activement (via la fenêtre de dialogue de fichiers). L'application lit les fichiers de cliparts que vous lui indiquez et n'écrit les fichiers SVG, PNG ou JPG exportés que dans le dossier de destination que vous avez choisi. À votre demande, elle renomme des fichiers dans ces dossiers, les déplace ou les copie vers un autre dossier que vous avez sélectionné, ou les place dans la Corbeille. L'application fonctionne à l'intérieur du bac à sable (sandbox) de macOS et n'a accès à aucune autre partie de votre système.
 
 ### Sous Windows
 

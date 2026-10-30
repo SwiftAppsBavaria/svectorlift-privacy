@@ -29,7 +29,7 @@ Diese Daten verlassen dein Gerät nicht und können jederzeit durch Deinstallati
 
 ## Dateizugriff
 
-sVectorLift greift ausschließlich auf Ordner und Dateien zu, die du selbst aktiv auswählst (über den Dateidialog). Die App liest die von dir angegebenen Clipart-Dateien und schreibt exportierte SVG-/PNG-Dateien nur in den von dir gewählten Zielordner. Die App arbeitet innerhalb der macOS-Sandbox und hat keinen Zugriff auf andere Bereiche deines Systems.
+sVectorLift greift ausschließlich auf Ordner und Dateien zu, die du selbst aktiv auswählst (über den Dateidialog). Die App liest die von dir angegebenen Clipart-Dateien und schreibt exportierte SVG-, PNG- oder JPG-Dateien nur in den von dir gewählten Zielordner. Auf deinen Wunsch benennt sie Dateien in diesen Ordnern um, verschiebt oder kopiert sie in einen anderen von dir gewählten Ordner oder legt sie in den Papierkorb. Die App arbeitet innerhalb der macOS-Sandbox und hat keinen Zugriff auf andere Bereiche deines Systems.
 
 ## Unter Windows
 

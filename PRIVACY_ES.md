@@ -31,7 +31,7 @@ Estos datos nunca salen de tu dispositivo y pueden eliminarse por completo en cu
 
 ### Acceso a archivos
 
-sVectorLift accede únicamente a las carpetas y los archivos que seleccionas de forma activa (a través del diálogo de archivos). La app lee los archivos de clipart que le indicas y escribe los archivos SVG/PNG exportados solo en la carpeta de destino que elijas. La app funciona dentro del entorno aislado (sandbox) de macOS y no tiene acceso a otras áreas de tu sistema.
+sVectorLift accede únicamente a las carpetas y los archivos que seleccionas de forma activa (a través del diálogo de archivos). La app lee los archivos de clipart que le indicas y escribe los archivos SVG, PNG o JPG exportados solo en la carpeta de destino que elijas. Si se lo pides, cambia el nombre de archivos en esas carpetas, los mueve o los copia a otra carpeta que hayas seleccionado, o los envía a la Papelera. La app funciona dentro del entorno aislado (sandbox) de macOS y no tiene acceso a otras áreas de tu sistema.
 
 ### En Windows
 
