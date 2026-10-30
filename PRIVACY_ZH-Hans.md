@@ -1,7 +1,7 @@
 # 隐私政策
 
 **sVectorLift**
-最后更新：2026 年 7 月 14 日
+最后更新：2026 年 10 月 30 日
 
 ## 摘要
 
@@ -30,6 +30,21 @@ sVectorLift 仅在你的 Mac 上保存以下数据：
 ## 文件访问
 
 sVectorLift 只访问你主动选择的文件夹和文件（通过文件对话框）。它读取你指定的剪贴画文件，并且只把导出的 SVG/PNG 文件写入你选定的目标文件夹。应用在 macOS 沙盒中运行，无法访问系统的其他区域。
+
+## 在 Windows 上
+
+以上各节说明的是 Mac。在 Windows 上，sVectorLift 只在你的电脑上、应用的数据文件夹（`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`）中保存以下内容：
+
+- **设置**，保存在文件 `config.json` 中：源文件夹、最近使用的文件夹和导出选项。
+- **应用日志**，用于排查问题（文件夹 `Logs`）。它不会离开你的电脑。
+
+Windows 不会把这些数据备份到 OneDrive。卸载应用时，这些数据会全部删除。
+
+在 Windows 上，sVectorLift 同样只读取你选择的文件夹，只写入你选定的目标文件夹。只有在你要求时，应用才会重命名、移动或复制文件，或将其移到回收站。它不建立网络连接，没有账户，也不收集任何数据。
+
+## Microsoft Store
+
+在 Windows 上，购买、下载和更新通过 Microsoft Store 进行，适用 Microsoft 隐私声明。
 
 ## 第三方服务
 

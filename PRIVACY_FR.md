@@ -1,7 +1,7 @@
 # Politique de confidentialité
 
 **sVectorLift**
-Dernière mise à jour : 14 juillet 2026
+Dernière mise à jour : 30 octobre 2026
 
 ---
 
@@ -32,6 +32,21 @@ Ces données ne quittent jamais votre appareil et peuvent être entièrement sup
 ### Accès aux fichiers
 
 sVectorLift n'accède qu'aux dossiers et fichiers que vous sélectionnez activement (via la fenêtre de dialogue de fichiers). L'application lit les fichiers de cliparts que vous lui indiquez et n'écrit les fichiers SVG/PNG exportés que dans le dossier de destination que vous avez choisi. L'application fonctionne à l'intérieur du bac à sable (sandbox) de macOS et n'a accès à aucune autre partie de votre système.
+
+### Sous Windows
+
+Les sections ci-dessus décrivent le Mac. Sous Windows, sVectorLift enregistre les éléments suivants exclusivement sur votre PC, dans le dossier de données de l'application (`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`) :
+
+- **Les réglages** dans un fichier `config.json` : les dossiers sources, les dossiers récemment utilisés et les options d'exportation.
+- **Un journal de l'application** pour le dépannage (dossier `Logs`). Il ne quitte jamais votre PC.
+
+Windows ne sauvegarde pas ces données dans OneDrive. Tout cela est supprimé lorsque vous désinstallez l'application.
+
+Sous Windows aussi, sVectorLift lit uniquement les dossiers que vous sélectionnez et n'écrit que dans le dossier de destination que vous choisissez. À votre demande, l'application renomme, déplace ou copie des fichiers, ou les place dans la Corbeille. Elle n'établit aucune connexion réseau, ne gère aucun compte et ne collecte aucune donnée.
+
+### Microsoft Store
+
+Sous Windows, l'achat, le téléchargement et les mises à jour passent par le Microsoft Store ; la déclaration de confidentialité de Microsoft s'y applique.
 
 ### Services tiers
 

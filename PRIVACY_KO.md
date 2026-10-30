@@ -1,7 +1,7 @@
 # 개인정보 처리방침
 
 **sVectorLift**
-최종 업데이트: 2026년 7월 14일
+최종 업데이트: 2026년 10월 30일
 
 ## 요약
 
@@ -30,6 +30,21 @@ sVectorLift는 다음 데이터를 사용자의 Mac 안에만 저장합니다.
 ## 파일 접근
 
 sVectorLift는 사용자가 직접 선택한 폴더와 파일에만 접근합니다(파일 선택 대화상자를 통해). 지정한 클립아트 파일을 읽고, 내보낸 SVG/PNG 파일은 선택한 대상 폴더에만 기록합니다. 앱은 macOS 샌드박스 안에서 동작하며 시스템의 다른 영역에는 접근할 수 없습니다.
+
+## Windows에서
+
+위의 항목들은 Mac에 관한 설명입니다. Windows에서 sVectorLift는 다음 데이터를 사용자의 PC에만, 앱의 데이터 폴더(`%LOCALAPPDATA%\Packages\SwiftAppsBavaria.sVectorLift_hf9cyk3yb1b54\LocalState`)에 저장합니다.
+
+- **설정**(파일 `config.json`): 원본 폴더, 최근 사용한 폴더, 내보내기 옵션.
+- **앱 로그**(문제 해결용, 폴더 `Logs`). PC 밖으로 나가지 않습니다.
+
+Windows는 이 데이터를 OneDrive에 백업하지 않습니다. 앱을 제거하면 모두 삭제됩니다.
+
+Windows에서도 sVectorLift는 사용자가 선택한 폴더만 읽고, 선택한 대상 폴더에만 기록합니다. 사용자가 요청할 때에만 파일의 이름을 바꾸거나, 옮기거나, 복사하거나, 휴지통으로 보냅니다. 네트워크에 연결하지 않으며, 계정이 없고, 데이터를 수집하지 않습니다.
+
+## Microsoft Store
+
+Windows에서는 구매, 다운로드, 업데이트가 Microsoft Store를 통해 이루어지며, 여기에는 Microsoft 개인정보처리방침이 적용됩니다.
 
 ## 제3자 서비스
 
